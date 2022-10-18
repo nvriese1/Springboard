@@ -17,10 +17,9 @@ Contents primarily include well-annotated Jupyter notebooks showcasing predictiv
 ### Built With
 
 <a><button name="button">`Python`</button></a> <br />
-Jupyter Notebook<br />
-MySQL<br />
-SQLite<br />
-Scikit-Learn<br />
+<a><button name="button">`Jupyter Notebook`</button></a> <br />
+<a><button name="button">`MySQL`</button></a> <br />
+<a><button name="button">`SQLite`</button></a> <br />
 
 ## Contact
 
