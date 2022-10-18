@@ -1,4 +1,4 @@
-# Springboard Data Science Career Track Porfolio
+# Portfolio: Springboard Data Science Career Track
 
 ![Springboard Logo](/Assets/springboard_logo.png)
 
