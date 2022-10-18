@@ -16,19 +16,19 @@ Contents primarily include well-annotated Jupyter notebooks showcasing predictiv
 
 ### Built With
 
-Python
-Jupyter Notebook
-MySQL
-SQLite
-Scikit-Learn
+Python<br />
+Jupyter Notebook<br />
+MySQL<br />
+SQLite<br />
+Scikit-Learn<br />
 
 ## Contact
 
 Noah Vriese
-email: noah@datawhirled.com
-github: <a><button name="button" style = "color: red" onclick="[https://www.w3schools.com/CPP/cpp_math.asp](https://github.com/nvriese1)">`cmath`on w3schools</button></a>nvriese1
-linkedin: noah-vriese
-twitter: nvriese
+email: noah@datawhirled.com<br />
+github: <a><button name="button" style = "color: red" onclick="[https://www.w3schools.com/CPP/cpp_math.asp](https://github.com/nvriese1)">`cmath`on w3schools</button></a>nvriese1<br />
+linkedin: noah-vriese<br />
+twitter: nvriese<br />
 
 ## Acknowledgements
 
