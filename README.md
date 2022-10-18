@@ -24,9 +24,9 @@ Scikit-Learn<br />
 
 ## Contact
 
-Noah Vriese
+Noah Vriese<br />
 email: noah@datawhirled.com<br />
-github: <a><button name="button" style = "color: red" onclick="[https://www.w3schools.com/CPP/cpp_math.asp](https://github.com/nvriese1)">`cmath`on w3schools</button></a>nvriese1<br />
+github: <a><button name="button" style = "color: red" onclick="[https://github.com/nvriese1]">`Github`</button></a>nvriese1<br />
 linkedin: noah-vriese<br />
 twitter: nvriese<br />
 
