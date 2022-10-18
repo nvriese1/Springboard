@@ -26,7 +26,7 @@ Scikit-Learn<br />
 
 Noah Vriese<br />
 email: noah@datawhirled.com<br />
-<a><button name="button" style = "color: red" onclick="[https://github.com/nvriese1]">`Github`</button></a>nvriese1: words<br />
+<a><button name="button" style = "color: red" onclick="[https://github.com/nvriese1]">`Github`</button></a> [nvriese1](https://github.com/nvriese1)<br />
 linkedin: noah-vriese<br />
 twitter: nvriese<br />
 
