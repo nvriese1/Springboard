@@ -1,6 +1,6 @@
 # Springboard Data Science Career Track Porfolio
 
-![Springboard Logo](https://github.com/nvriese1/Springboard/Assets/springboard_logo.jpg?raw=true)
+![Springboard Logo](/Assets/springboard_logo.jpg)
 
 ## Table of Contents
 
