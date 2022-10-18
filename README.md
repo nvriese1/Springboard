@@ -24,12 +24,13 @@ Contents primarily include well-annotated Jupyter notebooks showcasing predictiv
 ## Contact
 
 Noah Vriese<br />
-email: noah@datawhirled.com<br />
-<a><button name="button" style = "color: red" onclick="[https://github.com/nvriese1]">`Github`</button></a> [nvriese1](https://github.com/nvriese1)<br />
-linkedin: noah-vriese<br />
-twitter: nvriese<br />
+Email: noah@datawhirled.com<br />
+Github: [nvriese1](https://github.com/nvriese1)<br />
+LinkedIn: [noah-vriese](https://www.linkedin.com/in/noah-vriese/)<br />
+Facebook: [noah.vriese](https://www.facebook.com/noah.vriese)<br />
+Twitter: [@nvriese](https://twitter.com/nvriese)<br />
 
 ## Acknowledgements
 
-Springboard (San Francisco, CA)
+Springboard (San Francisco, CA)<br />
 Liscense: MIT
